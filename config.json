@@ -12,7 +12,7 @@
   "PASSWORD": "your password",
   "OTPKEY": "",
   "BOTNAME": "Tasmi",
-  "PREFIX": "+",
+  "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
